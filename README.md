@@ -1,0 +1,1 @@
+Examples of solved tasks from the site [LeetCode.com](LeetCode.com)
